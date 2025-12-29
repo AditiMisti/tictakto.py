@@ -1,0 +1,10 @@
+# Project: Clickable Tic-Tac-Toe (Project #16)
+# This project uses the standard Python library.
+
+# No external libraries (like pygame or pandas) are required.
+# Tkinter is pre-installed with standard Python distributions.
+
+Python Version: 3.x
+Required Modules:
+- tkinter
+- tkinter.messagebox
